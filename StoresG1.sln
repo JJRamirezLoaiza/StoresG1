@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoresG1.Shared", "StoresG1.Shared\StoresG1.Shared.csproj", "{C029DA1B-4540-4AC8-A404-0F889EF88F3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoresG1.Shared", "StoresG1.Shared\StoresG1.Shared.csproj", "{C029DA1B-4540-4AC8-A404-0F889EF88F3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoresG1.API", "StoresG1.API\StoresG1.API.csproj", "{FFC4A1C1-5545-4D03-AFAD-AF840456AC81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoresG1.API", "StoresG1.API\StoresG1.API.csproj", "{FFC4A1C1-5545-4D03-AFAD-AF840456AC81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoresG1.WEB", "StoresG1.WEB\StoresG1.WEB.csproj", "{76E9D14E-B89C-405D-A5CA-C9568209565D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoresG1.WEB", "StoresG1.WEB\StoresG1.WEB.csproj", "{76E9D14E-B89C-405D-A5CA-C9568209565D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
